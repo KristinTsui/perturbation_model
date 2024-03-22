@@ -1,0 +1,5 @@
+outs:
+- md5: 8efa7f3ca6949e1facdaa47e539e9855
+  size: 1317639
+  hash: md5
+  path: vocab.json
