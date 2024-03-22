@@ -153,3 +153,5 @@ references/
 examples/save
 examples/modality_pred/data
 figures/
+!features/save/dev_CART-Mar21-21-45/best_model.pt.dvc
+!features/save/dev_CART-Mar21-21-45/vocab.json
