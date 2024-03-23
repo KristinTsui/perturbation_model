@@ -1,0 +1,3 @@
+name: scGPT_env
+channels:
+  - conda-forge
