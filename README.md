@@ -3,6 +3,7 @@
 This repository is built upon **scGPT:Towards Building a Foundation Model for Single-Cell Mutli-omics Using Generative AI**.
 
 ## Project Highlights
+
 - Fine-tuned scGPT Model: Utilizes the scGPT architecture to predict perturbation effects in T cell datasets. The perturbation prediction feature is detailed in features/Perturbation_Prediction.ipynb.
 
 - Foundation Model Fine-tuning: Initially fine-tuned using a patient T cell dataset for cell annotation tasks. The next phase targets further fine-tuning on perturbation prediction, employing the Adamson dataset provided in data/.
