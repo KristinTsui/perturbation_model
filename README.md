@@ -30,7 +30,7 @@ Download the finetuned model from https://drive.google.com/drive/u/0/folders/1w1
 
 Load the finetuned model to further finetune using Preturbation_Prediction.ipynb
 
-Update 22/03/24: Please ignore the DVC files, could not establish connection to my google drive. Please use the provided link to download the finetuned model.
+Update 22/03/24: Please ignore the DVC files, could not establish connection to google drive. Please use the provided link to download the finetuned model.
 
 ## Design Doc
 Current Goals: 
