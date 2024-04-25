@@ -1,0 +1,6 @@
+outs:
+- md5: 712586ae26e1c91197637b2dd57f9b34.dir
+  size: 206704197
+  nfiles: 3
+  hash: md5
+  path: scGPT_human
